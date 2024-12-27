@@ -33,7 +33,7 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
 ## 🏆 Certifications
 - Successfully completed **176 hours of face-to-face training** in the following areas:  
   - **White Hat Hacking**  
-  - **Basic Linux**  
+  - **Linux**  
   - **Penetration Testing**  
   - **Malware Analysis & Reverse Engineering**  
   - **Applied Web Security**  
@@ -43,7 +43,6 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
 
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TunahanDilercan&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -67,5 +66,3 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TunahanDilercan.profile)](#)
 
 ---
-
-<!-- Proudly created with inspiration from GPRM -->
