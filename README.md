@@ -4,29 +4,40 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
 
 ---
 
-<img src="https://styles.redditmedia.com/t5_d5r6xh/styles/bannerBackgroundImage_cr9snytw4q7e1.jpg" />
+## 🛠️ Technical Skills
+- **Programming Languages:** Python, Kotlin, C++, Java  
+- **Embedded Systems:** Expertise in designing and programming microcontroller-based systems  
+- **Cybersecurity Expertise:**  
+  - White Hat Hacking  
+  - Penetration Testing  
+  - Malware Analysis & Reverse Engineering  
+  - Web Application Security  
+- **Tools:**  
+  - Git, Docker, Linux (Ubuntu, Kali)  
+  - Metasploit, Burp Suite, Wireshark  
+  - **APKTool**, JD-GUI (Java Decompiler), Dex2Jar  
+  - Nmap, Aircrack-ng, Hydra  
+  - Postman (API Testing), Fiddler  
+  - VirtualBox, VMware (Virtualization Tools)  
+  - **Basic SolidWorks** (CAD Design)  
+  - **Tinkercad**, **Multisim**, **MATLAB** (Circuit Design & Simulation)  
 
 ---
 
-## 🌟 About Me
-### Who am I? What do I do?
-I'm a tech enthusiast exploring cutting-edge solutions in software and hardware. My expertise lies in:
-- **Embedded Systems Development**  
-- **IoT Applications**  
-- **Cybersecurity and Ethical Hacking**  
-
----
-
-## 🚀 Project
+## 🚀 Projects
 ### 📌 [SmartESPApp](https://github.com/TunahanDilercan/SmartESPApp)
-🔍 Developed a mobile application integrated with the ESP8266 microcontroller. The project focuses on providing an innovative IoT (Internet of Things) solution for smart device control and monitoring.
+🔍 Developed a mobile application integrated with microcontroller-based systems. This project focuses on providing an innovative IoT (Internet of Things) solution for smart device control and monitoring.
 
 ---
 
-## 🛠️ Skills & Tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![ESP8266](https://img.shields.io/badge/ESP8266-%2300E676.svg?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/matlab-%230078D4.svg?style=for-the-badge) ![Tinkercad](https://img.shields.io/badge/Tinkercad-%23F47E12.svg?style=for-the-badge)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+## 🏆 Certifications
+- Successfully completed **176 hours of face-to-face training** in the following areas:  
+  - **White Hat Hacking**  
+  - **Basic Linux**  
+  - **Penetration Testing**  
+  - **Malware Analysis & Reverse Engineering**  
+  - **Applied Web Security**  
+- Earned through a rigorous selection and assessment process.
 
 ---
 
@@ -37,8 +48,13 @@ I'm a tech enthusiast exploring cutting-edge solutions in software and hardware.
 
 ---
 
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TunahanDilercan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## 🎓 Education
+- **Isparta University of Applied Sciences**  
+  Bachelor's Degree in Mechatronics Engineering (2023 - 2027)  
+- **Istanbul University**  
+  Bachelor's Degree in Management Information Systems (2024 - 2028)  
+- **Sehit Nurullah Sabirer Science High School**  
+  Graduated: 2022  
 
 ---
 
