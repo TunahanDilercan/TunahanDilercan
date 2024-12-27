@@ -56,10 +56,8 @@ Tunahan Dilercan successfully passed a rigorous selection process and completed 
 ---
 
 ## 📊 GitHub Statistics
-![Profile Views](https://komarev.com/ghpvc/?username=TunahanDilercan&color=blue)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TunahanDilercan&theme=radical)](https://git.io/streak-stats)   
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TunahanDilercan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
+![Profile Views](https://komarev.com/ghpvc/?username=TunahanDilercan&color=blue)  
 
 ---
 
