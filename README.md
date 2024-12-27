@@ -37,7 +37,6 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
   - **Penetration Testing**  
   - **Malware Analysis & Reverse Engineering**  
   - **Applied Web Security**  
-- Earned through a rigorous selection and assessment process.
 
 ---
 
