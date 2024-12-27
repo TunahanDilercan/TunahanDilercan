@@ -6,17 +6,17 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
 
 ## 🎓 Education
 - **Isparta University of Applied Sciences**  
-  Bachelor’s Degree in Mechatronics Engineering (2023 - 2027)  
+  Bachelor's Degree in Mechatronics Engineering (2023 - 2027)  
 - **Istanbul University**  
-  Bachelor’s Degree in Management Information Systems (2024 - 2028)  
-- **Şehit Nurullah Sabirer Science High School**  
+  Bachelor's Degree in Management Information Systems (2024 - 2028)  
+- **Sehit Nurullah Sabirer Science High School**  
   Graduated: 2022  
 
 ---
 
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, Kotlin, C++, Java  
-- **Embedded Systems:** Raspberry Pi, ESP32  
+- **Embedded Systems:** ESP8266, ESP32  
 - **Cybersecurity Expertise:**  
   - White Hat Hacking  
   - Penetration Testing  
@@ -30,10 +30,11 @@ Hi there! I'm Tunahan Dilercan, a Mechatronics Engineering student with a strong
   - Postman (API Testing), Fiddler  
   - VirtualBox, VMware (Virtualization Tools)  
   - **Basic SolidWorks** (CAD Design)  
+  - **Tinkercad**, **Multisim**, **MATLAB** (Circuit Design & Simulation)  
 - **Electronics and Circuit Knowledge:**  
   - PCB Design and Development  
-  - Circuit Simulation with Proteus and LTSpice  
-  - Microcontroller Programming (e.g., Raspberry Pi, ESP32)  
+  - Circuit Simulation with Proteus, LTSpice, Tinkercad, and Multisim  
+  - Microcontroller Programming (e.g., ESP8266, ESP32)  
   - Sensors, Actuators, and Control Systems  
 
 ---
@@ -49,8 +50,8 @@ Tunahan Dilercan successfully passed a rigorous selection process and completed 
 ---
 
 ## 🚀 Project
-### 📌 [Mobile Application Integrated with ESP8266(https://github.com/TunahanDilercan/SmartESPApp)
-🔍 Developed a project utilizing the Raspberry Pi microcontroller integrated with a mobile application. This project focuses on providing an innovative IoT (Internet of Things) solution for smart devices.
+### 📌 [SmartESPApp](https://github.com/TunahanDilercan/SmartESPApp)
+🔍 Developed a mobile application integrated with the ESP8266 microcontroller. The project focuses on providing an innovative IoT (Internet of Things) solution for smart device control and monitoring.
 
 ---
 
