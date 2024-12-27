@@ -49,7 +49,7 @@ Tunahan Dilercan successfully passed a rigorous selection process and completed 
 ---
 
 ## 🚀 Project
-### 📌 [Mobile Application Integrated with Raspberry Pi](https://github.com/TunahanDilercan/raspberry-pi-mobile-app)
+### 📌 [Mobile Application Integrated with ESP8266(https://github.com/TunahanDilercan/SmartESPApp)
 🔍 Developed a project utilizing the Raspberry Pi microcontroller integrated with a mobile application. This project focuses on providing an innovative IoT (Internet of Things) solution for smart devices.
 
 ---
