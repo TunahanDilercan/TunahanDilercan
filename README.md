@@ -49,15 +49,17 @@ Tunahan Dilercan successfully passed a rigorous selection process and completed 
 ---
 
 ## 🚀 Project
-### 📌 [Mobile Application Integrated with Raspberry Pi](https://github.com/username/raspberry-pi-mobile-app)
+### 📌 [Mobile Application Integrated with Raspberry Pi](https://github.com/TunahanDilercan/raspberry-pi-mobile-app)
 🔍 Developed a project utilizing the Raspberry Pi microcontroller integrated with a mobile application. This project focuses on providing an innovative IoT (Internet of Things) solution for smart devices.
 
 ---
 
 ## 📊 GitHub Statistics
-![Tunahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunahand&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahand&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tunahand&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=TunahanDilercan&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&show_icons=true&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TunahanDilercan&theme=radical)](https://git.io/streak-stats)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TunahanDilercan&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TunahanDilercan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
@@ -73,5 +75,3 @@ Tunahan Dilercan successfully passed a rigorous selection process and completed 
 - **Economics and Finance**  
 
 ---
-
-This README is now fully refined and ready for use. If you’d like to make further customizations or additions in the future, feel free to let me know. Good luck with your GitHub profile! 😊
