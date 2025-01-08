@@ -53,16 +53,6 @@ Completed **176 hours of comprehensive training** in:
 ---
 
 ## GitHub Statistics
-## GitHub İstatistikleri
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 45%; margin-right: 10px;"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 45%;"/>
-</div>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false)
 
