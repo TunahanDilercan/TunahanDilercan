@@ -27,6 +27,8 @@ Hello! I'm Tunahan Dilercan, a dedicated Mechatronics Engineering student with a
 ## Projects
 ### [SmartESPApp](https://github.com/TunahanDilercan/SmartESPApp)
 Developed a mobile application seamlessly integrated with microcontroller-based systems. The project offers an innovative IoT (Internet of Things) solution for smart device control and monitoring.
+### [CTF-AutoDecryptor](https://github.com/TunahanDilercan/CTF-AutoDecryptor)
+A tool for automatically identifying and deciphering encryption and encoding methods in CTF competitions.
 
 ---
 
@@ -51,7 +53,7 @@ Completed **176 hours of comprehensive training** in:
 ---
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false)
 
 
