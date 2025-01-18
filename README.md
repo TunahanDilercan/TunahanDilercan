@@ -33,7 +33,7 @@ A tool for automatically identifying and deciphering encryption and encoding met
 ---
 
 ## Certifications
-Completed **176 hours of comprehensive training** in:
+Completed **176 hours of comprehensive in-person training** in:
 - White Hat Hacking  
 - Linux  
 - Penetration Testing  
