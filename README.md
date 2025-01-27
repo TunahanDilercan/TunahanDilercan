@@ -27,8 +27,11 @@ Hello! I'm Tunahan Dilercan, a dedicated Mechatronics Engineering student with a
 ## Projects
 ### [SmartESPApp](https://github.com/TunahanDilercan/SmartESPApp)
 Developed a mobile application seamlessly integrated with microcontroller-based systems. The project offers an innovative IoT (Internet of Things) solution for smart device control and monitoring.
+### [Prompt-to-PDF](https://github.com/TunahanDilercan/Prompt-to-PDF)
+Prompt to PDF is a ChatGPT plugin that converts LaTeX content into professional-quality PDFs, ensuring accurate formatting for complex texts, formulas, and technical documents.
 ### [CTF-AutoDecryptor](https://github.com/TunahanDilercan/CTF-AutoDecryptor)
 A tool for automatically identifying and deciphering encryption and encoding methods in CTF competitions.
+
 
 ---
 
