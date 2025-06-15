@@ -35,26 +35,6 @@ A tool for automatically identifying and deciphering encryption and encoding met
 
 ---
 
-## Certifications
-Completed **176 hours of comprehensive in-person training** in:
-- White Hat Hacking  
-- Linux  
-- Penetration Testing  
-- Malware Analysis & Reverse Engineering  
-- Applied Web Security  
-
----
-
-## Education
-- **Isparta University of Applied Sciences**  
-  Bachelor's Degree in Mechatronics Engineering (2023 - 2027)  
-- **Istanbul University**  
-  Bachelor's Degree in Management Information Systems (2024 - 2028)  
-- **Sehit Nurullah Sabirer Science High School**  
-  Graduated: 2022  
-
----
-
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false)
