@@ -5,22 +5,15 @@ Hello! I'm Tunahan Dilercan, a dedicated Mechatronics Engineering student with a
 ---
 
 ## Technical Skills
-- **Programming Languages:** Python, Kotlin, C++, Java  
-- **Embedded Systems:** Skilled in designing and programming microcontroller-based systems  
-- **Cybersecurity Expertise:**  
-  - White Hat Hacking  
-  - Penetration Testing  
-  - Malware Analysis & Reverse Engineering  
-  - Web Application Security  
-- **Tools and Technologies:**  
-  - Git, Docker, Linux (Ubuntu, Kali)  
-  - Metasploit, Burp Suite, Wireshark  
-  - APKTool, JD-GUI (Java Decompiler), Dex2Jar  
-  - Nmap, Aircrack-ng, Hydra  
-  - Postman (API Testing), Fiddler  
-  - VirtualBox, VMware (Virtualization Tools)  
-  - Basic SolidWorks (CAD Design)  
-  - Tinkercad, Multisim, MATLAB (Circuit Design & Simulation)  
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+#### Dev / Security Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Burp](https://img.shields.io/badge/Burp%20Suite-5A2D90?style=flat-square&logo=burpsuite&logoColor=white)
+
+#### Security Specialties
+![PenTest](https://img.shields.io/badge/PenTest-000000?style=flat-square) ![Malware](https://img.shields.io/badge/Malware%20Analysis-ED2939?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-00689F?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
