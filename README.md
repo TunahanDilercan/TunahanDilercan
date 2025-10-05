@@ -36,8 +36,17 @@ A tool for automatically identifying and deciphering encryption and encoding met
 ---
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDilercan&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false)
+
+<div align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=TunahanDilercan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=420" 
+       height="200" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false&card_width=420" 
+       height="200" />
+</div>
+
+
 
 
 ---
