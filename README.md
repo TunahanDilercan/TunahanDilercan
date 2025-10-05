@@ -38,15 +38,15 @@ A tool for automatically identifying and deciphering encryption and encoding met
 ## GitHub Statistics
 
 <table>
-  <tr>
-    <td width="50%" align="center">
+  <tr valign="top">
+    <td align="center" width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api?username=TunahanDilercan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=500"
         alt="GitHub Stats"
         style="width:100%; height:200px;"
       />
     </td>
-    <td width="50%" align="center">
+    <td align="center" width="50%" valign="top">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false&card_width=500&langs_count=8"
         alt="Top Languages"
@@ -55,6 +55,7 @@ A tool for automatically identifying and deciphering encryption and encoding met
     </td>
   </tr>
 </table>
+
 
 
 
