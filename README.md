@@ -41,20 +41,21 @@ A tool for automatically identifying and deciphering encryption and encoding met
   <tr valign="top">
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=TunahanDilercan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=500"
+        src="https://github-readme-stats.vercel.app/api?username=TunahanDilercan&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=500"
         alt="GitHub Stats"
         style="width:100%; height:200px;"
       />
     </td>
     <td align="center" width="50%" valign="top">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=false&card_width=500&langs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDilercan&layout=compact&theme=dark&hide_border=true&card_width=500&langs_count=8"
         alt="Top Languages"
         style="width:100%; height:200px;"
       />
     </td>
   </tr>
 </table>
+
 
 
 
