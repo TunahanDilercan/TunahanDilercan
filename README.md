@@ -1,13 +1,12 @@
 # Tunahan Dilercan
 
 Mekatronik mühendisliği öğrencisiyim; ağırlıklı olarak **mobil uygulama geliştirme**
-(Android/Kotlin, Flutter), gömülü sistemler ve siber güvenlik üzerine çalışıyorum.
+(Android/Kotlin, Flutter), masaüstü araçlar ve siber güvenlik üzerine çalışıyorum.
 Buradaki projeler çoğunlukla gerçek bir ihtiyaçtan doğdu: bir turnuvada hakemlik
 yaparken, bir cihazı telefondan kontrol etmek isterken ya da bir CTF sırasında.
 
 🌐 [tunahandilercan.com.tr](https://tunahandilercan.com.tr) &nbsp;·&nbsp;
-💼 [LinkedIn](https://linkedin.com/in/tunahandilercan) &nbsp;·&nbsp;
-📄 [CV (EN/TR)](https://github.com/TunahanDilercan/resume)
+💼 [LinkedIn](https://linkedin.com/in/tunahandilercan)
 
 ---
 
@@ -18,14 +17,12 @@ Koyu temalı bir spor ürünleri vitrini. Kategori filtresi, renk seçimine gör
 sepet satırları ve WhatsApp sipariş akışı. MVVM + StateFlow, repository soyutlaması,
 birim testleri ve GitHub Actions CI ile.
 
-### ♟️ [Chess Arbiter AI](https://github.com/TunahanDilercan/Chess-Arbiter-AI) · Python, Computer Vision
-El yazısı satranç skor kâğıtlarını fotoğraftan okuyup hamleleri FIDE kurallarına göre
-denetleyen hakem aracı. İnceleme masasında üçlü tekrar, elli hamle ve yasa dışı hamle
-itirazlarını dakikalar yerine saniyeler içinde çözmek için yazıldı.
+### 🛒 [Clipix Ürün Listesi](https://github.com/TunahanDilercan/UrunList_Clipix) · Kotlin, Android
+Ürün sergileme uygulaması; Shopier ödeme köprüsü ile uçtan uca satış akışı.
 
-### 🎙️ [Voice2Text](https://github.com/TunahanDilercan/voice2textapp) · Flutter, Dart
-Ses kayıtlarını metne çeviren, üzerine yapay zekâ ile özet ve soru üreten çalışma
-uygulaması. CI/CD hattı ve APK release'leri ile üretime hazır.
+### ♟️ [Chess Scoresheet Printer](https://github.com/TunahanDilercan/chess-scoresheet-printer) · C#, .NET
+Satranç turnuvaları için notasyon kâğıdı yazdırma aracı. QuestPDF ile hazır basılı
+kâğıt düzenleri, WinForms arayüz.
 
 ### 🔌 [SmartESPApp](https://github.com/TunahanDilercan/SmartESPApp) · Kotlin, ESP8266
 ESP8266 tabanlı sensör ağını telefondan izleyip yöneten IoT uygulaması.
@@ -33,6 +30,9 @@ ESP8266 tabanlı sensör ağını telefondan izleyip yöneten IoT uygulaması.
 ### 🔐 [CTF-AutoDecryptor](https://github.com/TunahanDilercan/CTF-AutoDecryptor) · Python
 CTF yarışmalarında karşılaşılan şifreleme ve kodlama yöntemlerini otomatik tanıyıp
 çözen yardımcı araç.
+
+### ⚡ [GSB Hızlı Giriş](https://github.com/TunahanDilercan/GSB-Hizli-Giris) · Python
+GSB WiFi portalına tek tıkla giriş yapan masaüstü uygulaması.
 
 ---
 
@@ -42,6 +42,7 @@ CTF yarışmalarında karşılaşılan şifreleme ve kodlama yöntemlerini otoma
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
